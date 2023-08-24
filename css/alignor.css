@@ -27,7 +27,7 @@ header{
       width: 20%;
       border: solid 1px;
   }
-  .square::before{
+  .square::before {
       content: " ";
       width: 0;
       height: 0;
@@ -37,7 +37,7 @@ header{
       left: -10px;
       top: 4rem;
       transform: translateX(-50%) rotate(-180deg);
-      visibility: visible;
+      visibility: visible
     }
   
   .tooltip-first .info{
@@ -75,7 +75,7 @@ header{
     left: -71px;
     top: -2.5rem;
     z-index: 0;
-    transform: translateX(-50%) rotate(-152deg);s
+    transform: translateX(-50%) rotate(-152deg);
       background-color:rgb(219, 216, 216);
       padding: 1.5rem;
   }
